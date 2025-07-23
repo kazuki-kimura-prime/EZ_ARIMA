@@ -19,3 +19,29 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+📦 本ソフトウェア「EZ_ARIMA」は、以下のオープンソースライブラリに依存しています：
+
+| ライブラリ名     | ライセンス種別 | 備考                           |
+|------------------|----------------|--------------------------------|
+| pandas           | BSD License    | データフレーム操作             |
+| numpy            | BSD License    | 数値計算                       |
+| matplotlib       | PSF License    | グラフ描画                     |
+| seaborn          | BSD License    | 統計可視化                     |
+| statsmodels      | BSD License    | 時系列解析・回帰分析など       |
+| pmdarima         | MIT License    | ARIMA/SARIMA 自動モデリング    |
+
+これらのライブラリは本ソフトウェアには同梱されておらず、pip等を通じてインストールされます。  
+使用ライブラリの各ライセンスは、それぞれの公式サイトまたはGitHubリポジトリで確認可能です。
+
+-------------------------------------------------------------------------------
+
+🛡 著作権・ライセンス遵守に関する声明
+
+- 上記ライブラリは、そのライセンスに従い合法的に利用されています。
+- 本ソフトウェアには、他者のコードや技術記事からの参照・派生要素を含むことがありますが、いずれもライセンス条件を遵守した上で構成されています。
+- 著作権侵害の意図は一切なく、必要に応じて謝辞・出典等の追記や修正を行います。
+
+問題がある場合は GitHub の Issues よりご連絡ください。確認後、速やかに対応いたします。
